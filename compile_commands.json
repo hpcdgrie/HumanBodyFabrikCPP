@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Dennis/Apps/FBRIK_Full_Body/FABRIK_Full_Body_C++/build-release",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/Dennis/Apps/externlibs/zebu/OpenSceneGraph/include -I\"C:/Users/Dennis/Apps/FBRIK_Full_Body/FABRIK_Full_Body_C++/src \" -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++17 -o src\\CMakeFiles\\fabrik.dir\\constraints.cpp.obj -c C:\\Users\\Dennis\\Apps\\FBRIK_Full_Body\\FABRIK_Full_Body_C++\\src\\constraints.cpp",
+  "file": "C:\\Users\\Dennis\\Apps\\FBRIK_Full_Body\\FABRIK_Full_Body_C++\\src\\constraints.cpp",
+  "output": "src\\CMakeFiles\\fabrik.dir\\constraints.cpp.obj"
+},
+{
+  "directory": "C:/Users/Dennis/Apps/FBRIK_Full_Body/FABRIK_Full_Body_C++/build-release",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/Dennis/Apps/externlibs/zebu/OpenSceneGraph/include -I\"C:/Users/Dennis/Apps/FBRIK_Full_Body/FABRIK_Full_Body_C++/src \" -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++17 -o src\\CMakeFiles\\fabrik.dir\\fabrik.cpp.obj -c C:\\Users\\Dennis\\Apps\\FBRIK_Full_Body\\FABRIK_Full_Body_C++\\src\\fabrik.cpp",
+  "file": "C:\\Users\\Dennis\\Apps\\FBRIK_Full_Body\\FABRIK_Full_Body_C++\\src\\fabrik.cpp",
+  "output": "src\\CMakeFiles\\fabrik.dir\\fabrik.cpp.obj"
+},
+{
+  "directory": "C:/Users/Dennis/Apps/FBRIK_Full_Body/FABRIK_Full_Body_C++/build-release",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/Dennis/Apps/FBRIK_Full_Body/FABRIK_Full_Body_C++/test/../src -IC:/Users/Dennis/Apps/externlibs/zebu/OpenSceneGraph/include -I\"C:/Users/Dennis/Apps/FBRIK_Full_Body/FABRIK_Full_Body_C++/src \" -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++17 -o test\\CMakeFiles\\test.dir\\main.cpp.obj -c C:\\Users\\Dennis\\Apps\\FBRIK_Full_Body\\FABRIK_Full_Body_C++\\test\\main.cpp",
+  "file": "C:\\Users\\Dennis\\Apps\\FBRIK_Full_Body\\FABRIK_Full_Body_C++\\test\\main.cpp",
+  "output": "test\\CMakeFiles\\test.dir\\main.cpp.obj"
+}
+]

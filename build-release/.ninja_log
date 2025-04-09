@@ -1,0 +1,9 @@
+# ninja log v5
+24	402	7658193687349528	test/CMakeFiles/test.dir/main.cpp.obj	816b3fad9152b4e4
+2	455	7658112466960515	src/CMakeFiles/fabrik.dir/constraints.cpp.obj	4cfab2d6dbb88e01
+7	472	7658112467167569	src/CMakeFiles/fabrik.dir/fabrik.cpp.obj	75e9a2020e4551c6
+402	639	7658193689726041	test/test.exe	30b6d4b8918b9c86
+3	202	7658194273026710	build.ninja	d1f3124cf0519daf
+472	535	7658112467722985	src/fabrik.lib	848b4fda02d2647e
+29	528	7658201855981185	test/CMakeFiles/test.dir/main.cpp.obj	816b3fad9152b4e4
+529	635	7658201857191529	test/test.exe	30b6d4b8918b9c86
