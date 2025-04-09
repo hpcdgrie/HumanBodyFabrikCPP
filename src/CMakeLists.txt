@@ -8,7 +8,6 @@ fabrik.cpp
 )
 include(GNUInstallDirs)
 
-set(CMAKE_PREFIX_PATH C:/Users/Dennis/Apps/externlibs/zebu/OpenSceneGraph/)
 find_package(OpenSceneGraph COMPONENTS REQUIRED)
 add_library(fabrik ${HEADERS} ${SOURCES})
 target_link_libraries(fabrik PUBLIC ${OPENSCENEGRAPH_LIBRARIES})

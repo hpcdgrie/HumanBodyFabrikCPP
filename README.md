@@ -24,11 +24,11 @@ are based on these numbering
 
 After creating these files inside the `input` folder (see `test` folder) and creating `output` folder (it should be empty first), you can test the FABRIK method like the following:
 
-    cd test
     mkdir build
     cd build
     cmake ..
     make 
+    cd test
     test.exe
 
 Or you can include the library oin your own project:
