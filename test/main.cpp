@@ -1,3 +1,5 @@
+#include <algorithm>
+#include <cstring>
 #include <fabrik.h>
 #include <iostream>
 #include <fstream>
