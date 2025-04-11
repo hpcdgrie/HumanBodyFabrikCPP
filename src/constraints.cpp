@@ -273,8 +273,7 @@ osg::Vec3 Constraints::rotational_constraint()
         // a vector from o to p_before
         osg::Vec3 unit_vec_o_before = (p_before - o) / l_o_before;
         osg::Vec3 unit_vec_normal_plane = unit_vec_next_i;
-
-        if (rot_angle == 0) // return nearest point in global coordinate
+        if (rot_angle == 0 || rot_angle != rot_angle) // return nearest point in global coordinate
             return o + unit_vec_o_before * l_o_nearest_point;
         else
         {
